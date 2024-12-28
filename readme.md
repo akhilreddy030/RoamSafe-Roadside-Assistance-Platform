@@ -120,7 +120,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 📞 **Contact**
 If you have any questions, feel free to reach out:
 - **Project Lead**: Akhil Reddy Pabbathi
-- **Email**: [akhilreddypabbathireddy03@gmail.com](mailto:akhilreddypabbathireddy03@gmail.com)
+- **Email**: [akhilreddy.uf154@gmail.com](mailto:akhilreddypabbathireddy03@gmail.com)
 - **GitHub**: [akhilreddy030](https://github.com/akhilreddy030)
 
 ---
